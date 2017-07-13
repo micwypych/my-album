@@ -184,3 +184,4 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 # End of https://www.gitignore.io/api/vim,java,sonar,linux,macos,gradle,windows,intellij
+gradle.properties
