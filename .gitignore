@@ -185,3 +185,5 @@ gradle-app.setting
 
 # End of https://www.gitignore.io/api/vim,java,sonar,linux,macos,gradle,windows,intellij
 gradle.properties
+.idea/
+my-album.iml
